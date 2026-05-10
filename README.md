@@ -1,10 +1,6 @@
-<h1 align="center">Hi, I'm Lina 👋</h1>
+<h1 align="center">Hi, I'm Lina </h1>
 
 <h3 align="center">Network & Telecommunications Engineering Student | AI & Systems Enthusiast</h3>
-
-<p align="center">
-I’m passionate about how modern technologies converge — where AI, networks, and data systems come together to build intelligent and adaptive infrastructures.
-</p>
 
 ---
 
